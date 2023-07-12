@@ -1,0 +1,4 @@
+*.class
+/.idea/
+/BigJava3rdEdition.iml
+/out/
