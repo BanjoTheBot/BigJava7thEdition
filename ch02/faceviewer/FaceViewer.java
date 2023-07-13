@@ -1,7 +1,6 @@
 package ch02.faceviewer;
 
 import javax.swing.JFrame;
-import javax.swing.WindowConstants;
 
 public class FaceViewer {
 
@@ -9,7 +8,7 @@ public class FaceViewer {
         JFrame frame = new JFrame();
         frame.setSize(500, 220);
         frame.setTitle("An Important Message");
-        frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         FaceComponent face = new FaceComponent();
         frame.add(face);
 
