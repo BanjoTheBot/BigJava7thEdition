@@ -12,7 +12,7 @@ public class NameComponent extends JComponent {
 
         Graphics2D g2 = (Graphics2D) g;
 
-        // Worst class name ever, don't make stupid ones like this
+        // Worst class name ever, don't make stupid names like this
         Rectangle daBaDeeDaBaDi = new Rectangle(10, 10, 55, 40);
 
         g2.setColor(Color.BLUE);
