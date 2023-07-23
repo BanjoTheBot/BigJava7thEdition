@@ -1,4 +1,4 @@
-# BigJava3rdEdition
+# BigJava7thEdition
 Referenced from Cay Horstman's 7th edition Big Java Book.
 Started July 6th, 2023
 
